@@ -1,0 +1,93 @@
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Restaurant App.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Restaurant App.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\com.company.Restaurant_App.apk
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\com.company.Restaurant_App-Signed.apk
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Annotations.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Compat.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Fragment.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Transition.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\Restaurant App.csproj.CoreCompileInputs.cache
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\Restaurant App.csproj.CopyComplete
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\Restaurant App.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\Restaurant App.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\bin\com.company.Restaurant_App.apk
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values-v21\styles.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\layout\toolbar.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values\dimens.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\layout\fragment1.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\layout\fragment2.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\layout\main.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\layout\nav_header.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values\colors.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values\integers.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values\strings.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values\styles.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values-land\dimens.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values\arrays.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xxhdpi\ic_home_1.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-hdpi\ic_home_1.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-mdpi\ic_home_1.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xhdpi\ic_home_1.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-hdpi\ic_home_2.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-mdpi\ic_home_2.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xhdpi\ic_home_2.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xxhdpi\ic_home_2.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xxxhdpi\icon.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-hdpi\icon.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-mdpi\icon.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xhdpi\icon.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xxhdpi\icon.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\menu\nav_menu.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-hdpi\ic_menu.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-mdpi\ic_menu.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xhdpi\ic_menu.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\drawable-xxhdpi\ic_menu.png
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\res\values\style.xml
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\R.cs.flag
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\uploadflags.txt
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Mono.Android.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\mscorlib.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\System.Core.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\System.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\System.Xml.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\System.Xml.Linq.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\System.Net.Http.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\System.Runtime.Serialization.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\System.ServiceModel.Internals.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Mono.Security.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\System.ComponentModel.Composition.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\Mono.Android.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\mscorlib.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\System.Core.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\System.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\System.Xml.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\System.Xml.Linq.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\System.Net.Http.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\Mono.Security.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\Restaurant App.dll.mdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Restaurant App.dll.mdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\Restaurant App.dll.mdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\Mono.Android.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\Mono.Security.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\mscorlib.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\System.Core.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\System.Net.Http.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\System.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\android\assets\System.Xml.pdb
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\bin\Debug\Restaurant App.dll
+D:\Users\tempe\source\repos\Restaurant App\Restaurant App\obj\Debug\linksrc\Restaurant App.dll.mdb
