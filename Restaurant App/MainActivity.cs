@@ -57,6 +57,12 @@ namespace Restaurant_App
                     case Resource.Id.nav_home_2:
                         ListItemClicked(1);
                         break;
+                    case Resource.Id.nav_home_3:
+                        ListItemClicked(2);
+                        break;
+                    case Resource.Id.nav_home_4:
+                        ListItemClicked(3);
+                        break;
                 }
 
 
@@ -89,6 +95,12 @@ namespace Restaurant_App
                     break;
                 case 1:
                     fragment = Fragment2.NewInstance();
+                    break;
+                case 2:
+                    fragment = Fragment3.NewInstance();
+                    break;
+                case 3:
+                    fragment = Fragment4.NewInstance();
                     break;
             }
 

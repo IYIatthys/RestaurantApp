@@ -92,6 +92,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fragments\Fragment3.cs" />
+    <Compile Include="Fragments\Fragment4.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Fragments\Fragment1.cs" />
     <Compile Include="Fragments\Fragment2.cs" />
@@ -113,6 +115,12 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\nav_header.axml" />
+    <AndroidResource Include="Resources\layout\fragment3.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\fragment4.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Properties\AndroidManifest.xml">
@@ -128,10 +136,6 @@
     <AndroidResource Include="Resources\values\arrays.xml">
       <SubType>Designer</SubType>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable-xxhdpi\ic_home_1.png" />
-    <AndroidResource Include="Resources\drawable-hdpi\ic_home_1.png" />
-    <AndroidResource Include="Resources\drawable-mdpi\ic_home_1.png" />
-    <AndroidResource Include="Resources\drawable-xhdpi\ic_home_1.png" />
     <AndroidResource Include="Resources\drawable-hdpi\ic_home_2.png" />
     <AndroidResource Include="Resources\drawable-mdpi\ic_home_2.png" />
     <AndroidResource Include="Resources\drawable-xhdpi\ic_home_2.png" />
@@ -147,6 +151,9 @@
     <AndroidResource Include="Resources\drawable-xhdpi\ic_menu.png" />
     <AndroidResource Include="Resources\drawable-xxhdpi\ic_menu.png" />
     <AndroidResource Include="Resources\values\style.xml" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_home_3.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_map_black.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\ic_home_1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

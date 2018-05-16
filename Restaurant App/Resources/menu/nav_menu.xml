@@ -10,6 +10,14 @@
         android:id="@+id/nav_home_2"
         android:icon="@drawable/ic_home_2"
         android:title="Restaurants" />
+    <item
+        android:id="@+id/nav_home_3"
+        android:icon="@drawable/ic_home_3"
+        android:title="Favorites" />
+    <item
+        android:id="@+id/nav_home_4"
+        android:icon="@drawable/ic_map_black"
+        android:title="Maps" />
   </group>
 
 <!--  <item android:title="Sub items">

@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>15-5-2018 10:02:30</xs:documentation>
+    <xs:documentation>16-5-2018 16:07:59</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -55,6 +55,8 @@
             <xs:enumeration value="@layout/design_text_input_password_icon" />
             <xs:enumeration value="@layout/fragment1" />
             <xs:enumeration value="@layout/fragment2" />
+            <xs:enumeration value="@layout/fragment3" />
+            <xs:enumeration value="@layout/fragment4" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@layout/nav_header" />
             <xs:enumeration value="@layout/notification_action" />
@@ -157,6 +159,8 @@
             <xs:enumeration value="@layout/design_text_input_password_icon" />
             <xs:enumeration value="@layout/fragment1" />
             <xs:enumeration value="@layout/fragment2" />
+            <xs:enumeration value="@layout/fragment3" />
+            <xs:enumeration value="@layout/fragment4" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@layout/nav_header" />
             <xs:enumeration value="@layout/notification_action" />
@@ -259,6 +263,8 @@
             <xs:enumeration value="@layout/design_text_input_password_icon" />
             <xs:enumeration value="@layout/fragment1" />
             <xs:enumeration value="@layout/fragment2" />
+            <xs:enumeration value="@layout/fragment3" />
+            <xs:enumeration value="@layout/fragment4" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@layout/nav_header" />
             <xs:enumeration value="@layout/notification_action" />
@@ -361,6 +367,8 @@
             <xs:enumeration value="@layout/design_text_input_password_icon" />
             <xs:enumeration value="@layout/fragment1" />
             <xs:enumeration value="@layout/fragment2" />
+            <xs:enumeration value="@layout/fragment3" />
+            <xs:enumeration value="@layout/fragment4" />
             <xs:enumeration value="@layout/main" />
             <xs:enumeration value="@layout/nav_header" />
             <xs:enumeration value="@layout/notification_action" />
@@ -476,6 +484,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />

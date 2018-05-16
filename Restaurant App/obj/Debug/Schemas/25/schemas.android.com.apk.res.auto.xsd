@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>15-5-2018 10:02:30</xs:documentation>
+    <xs:documentation>16-5-2018 16:07:59</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -364,6 +364,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -836,6 +838,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -975,6 +979,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -1524,6 +1530,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -2050,6 +2058,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -2584,6 +2594,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -2904,6 +2915,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -3430,6 +3443,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -3902,6 +3917,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -4451,6 +4468,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -4977,6 +4996,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -6458,6 +6479,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -7042,6 +7065,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -7568,6 +7593,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -8178,6 +8205,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -8692,6 +8721,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -8767,6 +8798,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -8935,6 +8967,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -9531,6 +9565,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -9993,6 +10029,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -10244,6 +10281,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -10706,6 +10745,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -10957,6 +10997,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -11483,6 +11525,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -11955,6 +11999,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -12052,6 +12098,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -12589,6 +12637,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -13061,6 +13111,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -13200,6 +13252,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -13672,6 +13726,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -13811,6 +13867,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -14315,6 +14373,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -14774,6 +14833,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -15246,6 +15307,8 @@
             <xs:enumeration value="@string/drawer_open" />
             <xs:enumeration value="@string/fragment1" />
             <xs:enumeration value="@string/fragment2" />
+            <xs:enumeration value="@string/fragment3" />
+            <xs:enumeration value="@string/fragment4" />
             <xs:enumeration value="@string/menu_refresh" />
             <xs:enumeration value="@string/password_toggle_content_description" />
             <xs:enumeration value="@string/path_password_eye" />
@@ -15363,6 +15426,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -15819,6 +15883,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -16345,6 +16411,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -17041,6 +17109,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -17503,6 +17573,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -17754,6 +17825,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -18292,6 +18365,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -18754,6 +18829,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -19005,6 +19081,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -19887,6 +19965,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -20413,6 +20493,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -21068,6 +21150,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -22694,6 +22777,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -22945,6 +23029,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -23407,6 +23493,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -23772,6 +23859,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -25164,6 +25252,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -25626,6 +25716,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -25877,6 +25968,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -26403,6 +26496,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
@@ -26865,6 +26960,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -27177,6 +27273,8 @@
             <xs:enumeration value="@drawable/design_snackbar_background" />
             <xs:enumeration value="@drawable/ic_home_1" />
             <xs:enumeration value="@drawable/ic_home_2" />
+            <xs:enumeration value="@drawable/ic_home_3" />
+            <xs:enumeration value="@drawable/ic_map_black" />
             <xs:enumeration value="@drawable/ic_menu" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/navigation_empty_icon" />
