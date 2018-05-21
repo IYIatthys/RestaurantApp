@@ -2,7 +2,7 @@
 <xs:schema xmlns:app="http://schemas.android.com/apk/res-auto" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res-auto" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>15-5-2018 10:02:30</xs:documentation>
+    <xs:documentation>21-5-2018 15:28:55</xs:documentation>
   </xs:annotation>
   <xs:attribute name="allowStacking">
     <xs:annotation>
@@ -2584,6 +2584,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -8767,6 +8768,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -9993,6 +9995,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -10706,6 +10709,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -14315,6 +14319,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -15363,6 +15368,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -17503,6 +17509,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -18754,6 +18761,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -21068,6 +21076,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -22694,6 +22703,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -23407,6 +23417,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -23772,6 +23783,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -25626,6 +25638,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
@@ -26865,6 +26878,7 @@
             <xs:enumeration value="@color/accent_material_dark" />
             <xs:enumeration value="@color/accent_material_light" />
             <xs:enumeration value="@color/activated_color" />
+            <xs:enumeration value="@color/background" />
             <xs:enumeration value="@color/background_floating_material_dark" />
             <xs:enumeration value="@color/background_floating_material_light" />
             <xs:enumeration value="@color/background_material_dark" />
