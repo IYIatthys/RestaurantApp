@@ -2,7 +2,7 @@
 <xs:schema xmlns:tools="http://schemas.android.com/tools" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/tools" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>16-5-2018 16:07:59</xs:documentation>
+    <xs:documentation>17-5-2018 18:15:56</xs:documentation>
   </xs:annotation>
   <xs:attribute name="layout">
     <xs:annotation>
@@ -53,6 +53,7 @@
             <xs:enumeration value="@layout/design_navigation_menu" />
             <xs:enumeration value="@layout/design_navigation_menu_item" />
             <xs:enumeration value="@layout/design_text_input_password_icon" />
+            <xs:enumeration value="@layout/filters" />
             <xs:enumeration value="@layout/fragment1" />
             <xs:enumeration value="@layout/fragment2" />
             <xs:enumeration value="@layout/fragment3" />
@@ -157,6 +158,7 @@
             <xs:enumeration value="@layout/design_navigation_menu" />
             <xs:enumeration value="@layout/design_navigation_menu_item" />
             <xs:enumeration value="@layout/design_text_input_password_icon" />
+            <xs:enumeration value="@layout/filters" />
             <xs:enumeration value="@layout/fragment1" />
             <xs:enumeration value="@layout/fragment2" />
             <xs:enumeration value="@layout/fragment3" />
@@ -261,6 +263,7 @@
             <xs:enumeration value="@layout/design_navigation_menu" />
             <xs:enumeration value="@layout/design_navigation_menu_item" />
             <xs:enumeration value="@layout/design_text_input_password_icon" />
+            <xs:enumeration value="@layout/filters" />
             <xs:enumeration value="@layout/fragment1" />
             <xs:enumeration value="@layout/fragment2" />
             <xs:enumeration value="@layout/fragment3" />
@@ -365,6 +368,7 @@
             <xs:enumeration value="@layout/design_navigation_menu" />
             <xs:enumeration value="@layout/design_navigation_menu_item" />
             <xs:enumeration value="@layout/design_text_input_password_icon" />
+            <xs:enumeration value="@layout/filters" />
             <xs:enumeration value="@layout/fragment1" />
             <xs:enumeration value="@layout/fragment2" />
             <xs:enumeration value="@layout/fragment3" />

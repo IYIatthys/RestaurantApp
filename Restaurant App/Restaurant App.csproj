@@ -92,6 +92,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Fragments\Filters.cs" />
     <Compile Include="Fragments\Fragment3.cs" />
     <Compile Include="Fragments\Fragment4.cs" />
     <Compile Include="MainActivity.cs" />
@@ -109,7 +110,9 @@
     <AndroidResource Include="Resources\values-v21\styles.xml" />
     <AndroidResource Include="Resources\layout\toolbar.axml" />
     <AndroidResource Include="Resources\values\dimens.xml" />
-    <AndroidResource Include="Resources\layout\fragment1.axml" />
+    <AndroidResource Include="Resources\layout\fragment1.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
     <AndroidResource Include="Resources\layout\fragment2.axml" />
     <AndroidResource Include="Resources\layout\main.axml">
       <SubType>Designer</SubType>
@@ -119,6 +122,9 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\fragment4.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\filters.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

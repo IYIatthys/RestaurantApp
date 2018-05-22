@@ -23,6 +23,7 @@ namespace Restaurant_App
         {
             base.OnCreate(savedInstanceState);
             SetContentView(Resource.Layout.main);
+
             var toolbar = FindViewById<Android.Support.V7.Widget.Toolbar>(Resource.Id.toolbar);
             if (toolbar != null)
             {

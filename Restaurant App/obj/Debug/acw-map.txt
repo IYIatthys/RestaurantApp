@@ -2,6 +2,10 @@ Restaurant_App.MainActivity, Restaurant App;md57530e20c638b133fdedf958fb81008ee.
 Restaurant_App.MainActivity, Restaurant App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md57530e20c638b133fdedf958fb81008ee.MainActivity
 Restaurant_App.MainActivity;md57530e20c638b133fdedf958fb81008ee.MainActivity
 restaurant_app.MainActivity;md57530e20c638b133fdedf958fb81008ee.MainActivity
+Restaurant_App.Fragments.Filters, Restaurant App;md5358fb3765c593b04a40d38ceba1c1791.Filters
+Restaurant_App.Fragments.Filters, Restaurant App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5358fb3765c593b04a40d38ceba1c1791.Filters
+Restaurant_App.Fragments.Filters;md5358fb3765c593b04a40d38ceba1c1791.Filters
+restaurant_app.fragments.Filters;md5358fb3765c593b04a40d38ceba1c1791.Filters
 Restaurant_App.Fragments.Fragment3, Restaurant App;md5358fb3765c593b04a40d38ceba1c1791.Fragment3
 Restaurant_App.Fragments.Fragment3, Restaurant App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5358fb3765c593b04a40d38ceba1c1791.Fragment3
 Restaurant_App.Fragments.Fragment3;md5358fb3765c593b04a40d38ceba1c1791.Fragment3

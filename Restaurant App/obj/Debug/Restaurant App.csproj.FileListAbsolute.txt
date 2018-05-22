@@ -145,6 +145,8 @@ D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\layou
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-hdpi\ic_home_3.png
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\layout\fragment4.xml
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-hdpi\ic_map_black.png
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\Restaurant App.csprojResolveAssemblyReference.cache
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\layout\filters.xml
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\Restaurant App.dll
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\Mono.Android.pdb
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\mscorlib.pdb
