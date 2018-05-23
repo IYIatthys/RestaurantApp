@@ -7,15 +7,13 @@ namespace Restaurant_App.Fragments
 {
     public class Fragment1 : Android.Support.V4.App.Fragment
     {
+
         public override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
 
             // Create your fragment here
-
-            //Fragment fragment = new Filters();
-            //FragmentManager fragmentManager = get
-            //fragmentManager.BeginTransaction().Replace(Resource.Id.content_frame, fragment).Commit();
+            
         }
 
         public static Fragment1 NewInstance()
@@ -27,8 +25,24 @@ namespace Restaurant_App.Fragments
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             //var ignored = base.OnCreateView(inflater, container, savedInstanceState);
-            return inflater.Inflate(Resource.Layout.fragment1, null);
+            base.OnCreateView(inflater, container, savedInstanceState);
+            var view = inflater.Inflate(Resource.Layout.fragment1, null);
 
+            Button filterButton = view.FindViewById<Button>(Resource.Id.filterButton);
+            filterButton.Click += delegate
+            {
+                filterButtonClick();
+            };
+
+            return view;
+        }
+
+        public void filterButtonClick()
+        {
+            FragmentTransaction trans = FragmentManager.BeginTransaction();
+            trans.Replace(Resource.Id.content_frame, new Filters(), "Filters");
+            trans.AddToBackStack(null);
+            trans.Commit();
         }
     }
 }

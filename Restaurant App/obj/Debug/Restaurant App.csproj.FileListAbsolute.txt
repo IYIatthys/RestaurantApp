@@ -128,11 +128,7 @@ D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawa
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-mdpi\ic_home_2.png
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-xhdpi\ic_home_2.png
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-xxhdpi\ic_home_2.png
-D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-xxxhdpi\icon.png
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-hdpi\icon.png
-D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-mdpi\icon.png
-D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-xhdpi\icon.png
-D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-xxhdpi\icon.png
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\menu\nav_menu.xml
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-hdpi\ic_menu.png
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-mdpi\ic_menu.png
@@ -145,9 +141,7 @@ D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\layou
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-hdpi\ic_home_3.png
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\layout\fragment4.xml
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\drawable-hdpi\ic_map_black.png
-D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\Restaurant App.csprojResolveAssemblyReference.cache
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\res\layout\filters.xml
-D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\Restaurant App.dll
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\Mono.Android.pdb
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\mscorlib.pdb
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\System.Core.pdb
@@ -170,4 +164,20 @@ D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\linksrc\S
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\linksrc\Mono.Security.pdb
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\linksrc\Restaurant App.dll.mdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\Restaurant App.dll.mdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\Restaurant App.dll.mdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\Mono.Android.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\Mono.Security.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\mscorlib.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\System.Core.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\System.Net.Http.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\System.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\System.Xml.Linq.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\android\assets\System.Xml.pdb
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\Restaurant App.csprojResolveAssemblyReference.cache
+D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\bin\Debug\Restaurant App.dll
 D:\Users\tempe\Documents\GitHub\RestaurantApp\Restaurant App\obj\Debug\linksrc\Restaurant App.dll.mdb
