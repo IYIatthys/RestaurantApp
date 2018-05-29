@@ -13,6 +13,7 @@ namespace Restaurant_App
 {
     [Activity(Label = "@string/app_name", MainLauncher = true, LaunchMode = LaunchMode.SingleTop, Icon = "@drawable/Icon")]
     public class MainActivity : AppCompatActivity
+        //lol
     {
 
         DrawerLayout drawerLayout;
